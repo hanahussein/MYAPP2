@@ -1,6 +1,6 @@
 <project default="test">
-<property name ="src.java.dir" location="C:\Users\Centrino Laptop\Desktop\MYAPP\src\testing\cart"/>
-<property name ="src.test.dir" location="C:\Users\Centrino Laptop\Desktop\MYAPP\src\testing\MYAppTest"/>
+<property name ="src.java.dir" location="C:\Users\Centrino Laptop\Desktop\MYAPP\src\testing\cart.java"/>
+<property name ="src.test.dir" location="C:\Users\Centrino Laptop\Desktop\MYAPP\src\testing\MYAppTest.java"/>
 <property name ="result.dir" location="./staging"/>
 <property name ="result.javaclasses.dir" location="${result.dir}/classes"/>
 <property name ="result.testclasses.dir" location="${result.dir}/testclasses"/>
